@@ -1,0 +1,1 @@
+# barbershopAI-privacyPolicy
